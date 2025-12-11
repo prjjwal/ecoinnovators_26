@@ -106,3 +106,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 *   **Satellite Imagery:** Esri World Imagery (Wayback)
 *   **Datasets:** Roboflow Universe (Alfred Weber, LSGI547, Piscinas)
 *   **Framework:** Ultralytics YOLOv8
+
+***
+
+## Judging / Quick Start
+
+See `JUDGE.md` for concise reproduction steps for judges (venv setup, how to run `pipeline.py`, and expected outputs).
