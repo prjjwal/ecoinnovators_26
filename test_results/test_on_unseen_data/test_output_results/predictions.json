@@ -1,0 +1,1442 @@
+[
+  {
+    "sample_id": 2001,
+    "lat": 12.97194,
+    "lon": 77.59369,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 2002,
+    "lat": 28.5562,
+    "lon": 77.1,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 2003,
+    "lat": 19.0898,
+    "lon": 72.868,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 2004,
+    "lat": 10.015,
+    "lon": 76.392,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 2005,
+    "lat": 23.914,
+    "lon": 71.192,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 2006,
+    "lat": 17.24,
+    "lon": 78.43,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 2007,
+    "lat": 13.198,
+    "lon": 77.708,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 2008,
+    "lat": 26.47,
+    "lon": 73.11,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 2009,
+    "lat": 28.6143,
+    "lon": 77.1995,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 2010,
+    "lat": 12.842,
+    "lon": 80.154,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1011,
+    "lat": 12.9828,
+    "lon": 77.5585,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1012,
+    "lat": 12.9508,
+    "lon": 77.5812,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1013,
+    "lat": 12.9672,
+    "lon": 77.6231,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1014,
+    "lat": 12.9416,
+    "lon": 77.596,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1015,
+    "lat": 12.9808,
+    "lon": 77.5492,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1016,
+    "lat": 17.3958,
+    "lon": 78.4538,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1017,
+    "lat": 17.3415,
+    "lon": 78.5316,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1018,
+    "lat": 17.4316,
+    "lon": 78.5175,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1019,
+    "lat": 17.3655,
+    "lon": 78.4465,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1020,
+    "lat": 17.4034,
+    "lon": 78.4807,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1021,
+    "lat": 13.0449,
+    "lon": 80.2702,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1022,
+    "lat": 13.0361,
+    "lon": 80.3116,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "NOT_VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1023,
+    "lat": 13.0586,
+    "lon": 80.287,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1024,
+    "lat": 13.0639,
+    "lon": 80.2727,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1025,
+    "lat": 13.0874,
+    "lon": 80.2392,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1026,
+    "lat": 22.6196,
+    "lon": 88.3914,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1027,
+    "lat": 22.6165,
+    "lon": 88.4034,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1028,
+    "lat": 22.5824,
+    "lon": 88.4061,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1029,
+    "lat": 22.5314,
+    "lon": 88.3335,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1030,
+    "lat": 22.5271,
+    "lon": 88.3464,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1031,
+    "lat": 18.5093,
+    "lon": 73.8338,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1032,
+    "lat": 18.5533,
+    "lon": 73.8424,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1033,
+    "lat": 18.4985,
+    "lon": 73.861,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1034,
+    "lat": 18.4845,
+    "lon": 73.8869,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1035,
+    "lat": 18.4779,
+    "lon": 73.9054,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1036,
+    "lat": 23.0497,
+    "lon": 72.5413,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1037,
+    "lat": 22.9731,
+    "lon": 72.6029,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1038,
+    "lat": 23.0432,
+    "lon": 72.5943,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1039,
+    "lat": 23.0496,
+    "lon": 72.5288,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1040,
+    "lat": 23.0083,
+    "lon": 72.533,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1041,
+    "lat": 26.9487,
+    "lon": 75.7996,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1042,
+    "lat": 26.8955,
+    "lon": 75.7437,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1043,
+    "lat": 26.8935,
+    "lon": 75.7698,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1044,
+    "lat": 26.9354,
+    "lon": 75.8011,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1045,
+    "lat": 26.9511,
+    "lon": 75.7845,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1046,
+    "lat": 26.8087,
+    "lon": 80.9675,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1047,
+    "lat": 26.8728,
+    "lon": 80.9523,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1048,
+    "lat": 26.8738,
+    "lon": 80.9456,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1049,
+    "lat": 26.849,
+    "lon": 80.939,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1050,
+    "lat": 26.7992,
+    "lon": 80.907,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1051,
+    "lat": 22.6727,
+    "lon": 75.8713,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1052,
+    "lat": 22.701,
+    "lon": 75.8586,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1053,
+    "lat": 22.7604,
+    "lon": 75.8326,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1054,
+    "lat": 22.7106,
+    "lon": 75.8833,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1055,
+    "lat": 22.6925,
+    "lon": 75.8154,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1056,
+    "lat": 30.7123,
+    "lon": 76.7455,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1057,
+    "lat": 30.7763,
+    "lon": 76.8102,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1058,
+    "lat": 30.7466,
+    "lon": 76.8165,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1059,
+    "lat": 30.7637,
+    "lon": 76.7481,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1060,
+    "lat": 30.7726,
+    "lon": 76.7833,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1061,
+    "lat": 21.1765,
+    "lon": 72.8726,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1062,
+    "lat": 21.1276,
+    "lon": 72.794,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1063,
+    "lat": 21.1186,
+    "lon": 72.8257,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1064,
+    "lat": 21.1776,
+    "lon": 72.8691,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1065,
+    "lat": 21.0965,
+    "lon": 72.8341,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1066,
+    "lat": 22.2989,
+    "lon": 73.1534,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1067,
+    "lat": 22.2692,
+    "lon": 73.165,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1068,
+    "lat": 22.3515,
+    "lon": 73.1635,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1069,
+    "lat": 22.3091,
+    "lon": 73.2015,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1070,
+    "lat": 22.2936,
+    "lon": 73.2284,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1071,
+    "lat": 17.7331,
+    "lon": 83.1937,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1072,
+    "lat": 17.6866,
+    "lon": 83.1986,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1073,
+    "lat": 17.6654,
+    "lon": 83.1722,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1074,
+    "lat": 17.6979,
+    "lon": 83.2188,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1075,
+    "lat": 17.642,
+    "lon": 83.1964,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "NOT_VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1076,
+    "lat": 15.3401,
+    "lon": 73.7983,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "NOT_VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1077,
+    "lat": 15.2638,
+    "lon": 73.8232,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "NOT_VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1078,
+    "lat": 15.3479,
+    "lon": 73.7985,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "NOT_VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1079,
+    "lat": 15.3165,
+    "lon": 73.8505,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "NOT_VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1080,
+    "lat": 15.2731,
+    "lon": 73.8471,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "NOT_VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1081,
+    "lat": 9.918,
+    "lon": 76.2805,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1082,
+    "lat": 9.9446,
+    "lon": 76.2709,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1083,
+    "lat": 9.8902,
+    "lon": 76.3008,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "NOT_VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1084,
+    "lat": 9.9133,
+    "lon": 76.236,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "NOT_VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1085,
+    "lat": 9.8853,
+    "lon": 76.2764,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "NOT_VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1086,
+    "lat": 8.5419,
+    "lon": 76.8883,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1087,
+    "lat": 8.5253,
+    "lon": 76.9092,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1088,
+    "lat": 8.5386,
+    "lon": 76.904,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1089,
+    "lat": 8.5432,
+    "lon": 76.9253,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  },
+  {
+    "sample_id": 1090,
+    "lat": 8.5678,
+    "lon": 76.9004,
+    "has_solar": false,
+    "confidence": 0.0,
+    "pv_area_sqm_est": 0.0,
+    "buffer_radius_sqft": 1200,
+    "qc_status": "VERIFIABLE",
+    "bbox_or_mask": "",
+    "image_metadata": {
+      "source": "Esri World Imagery",
+      "capture_date": "2025-12-10",
+      "zoom_level": 18
+    }
+  }
+]

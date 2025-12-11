@@ -1,0 +1,1 @@
+this contains the training logs for YOLOv8-OBB Large, on Google Colab on a single NVIDIA T4 GPU, using 10GB VRAM on average. The model was trained for 45 epochs, and acheived relatively stable performance, however training for longer (100 epochs) may yield 5-10% improvement.

@@ -1,0 +1,2 @@
+test_on_training_data contains model inference results on random sub-sample from the training dataset. This represents the optimal performance case when using higher quality paid images fetching services.
+test_on_unseen_data  contains model inference results on randomly generated lat,lon combinations in India, none of which were previously seen my the model during training. This represents the current performance case when using lower quality free images fetching services.
